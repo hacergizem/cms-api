@@ -120,5 +120,15 @@
       "Category": "Surgery Category",
       "CreatedDate": "2024-02-14"
     }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Ahmet",
+      "surname": "Akman",
+      "email": "ahmet@icredible.com",
+      "password": "123456",
+      "avatar": "https://i.pinimg.com/564x/f4/76/2b/f4762b5fa708c903317cfd38647237f4.jpg"
+    }
   ]
 }
