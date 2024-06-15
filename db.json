@@ -5,120 +5,120 @@
       "name": "Dental Treatments",
       "code": "PC_Dental_Treatments",
       "language": "EN",
-      "Category": "Dental Category",
-      "CreatedDate": "2024-04-27"
+      "category": "Dental category",
+      "createdDate": "2024-04-27"
     },
     {
       "id": 2,
       "name": "Breast Aesthetic",
       "code": "PC_Breast_Aesthetic",
       "language": "EN",
-      "Category": "Aesthetic Category",
-      "CreatedDate": "2023-12-05"
+      "category": "Aesthetic category",
+      "createdDate": "2023-12-05"
     },
     {
       "id": 3,
       "name": "Hair Transplant",
       "code": "PC_Hair_Transplant",
       "language": "EN",
-      "Category": "Hair Category",
-      "CreatedDate": "2023-06-28"
+      "category": "Hair category",
+      "createdDate": "2023-06-28"
     },
     {
       "id": 4,
       "name": "Skin Rejuvenation",
       "code": "PC_Skin_Rejuvenation",
       "language": "EN",
-      "Category": "Skin Category",
-      "CreatedDate": "2024-02-23"
+      "category": "Skin category",
+      "createdDate": "2024-02-23"
     },
     {
       "id": 5,
       "name": "Weight Loss Surgery",
       "code": "PC_Weight_Loss_Surgery",
       "language": "EN",
-      "Category": "Surgery Category",
-      "CreatedDate": "2023-08-20"
+      "category": "Surgery category",
+      "createdDate": "2023-08-20"
     },
     {
       "id": 6,
       "name": "Rhinoplasty",
       "code": "PC_Rhinoplasty",
       "language": "EN",
-      "Category": "Surgery Category",
-      "CreatedDate": "2024-01-31"
+      "category": "Surgery category",
+      "createdDate": "2024-01-31"
     },
     {
       "id": 7,
       "name": "Facial Fillers",
       "code": "PC_Facial_Fillers",
       "language": "EN",
-      "Category": "Aesthetic Category",
-      "CreatedDate": "2024-06-11"
+      "category": "Aesthetic category",
+      "createdDate": "2024-06-11"
     },
     {
       "id": 8,
       "name": "Liposuction",
       "code": "PC_Liposuction",
       "language": "EN",
-      "Category": "Surgery Category",
-      "CreatedDate": "2023-10-25"
+      "category": "Surgery category",
+      "createdDate": "2023-10-25"
     },
     {
       "id": 9,
       "name": "Orthodontics",
       "code": "PC_Orthodontics",
       "language": "EN",
-      "Category": "Dental Category",
-      "CreatedDate": "2024-04-12"
+      "category": "Dental category",
+      "createdDate": "2024-04-12"
     },
     {
       "id": 10,
       "name": "Body Contouring",
       "code": "PC_Body_Contouring",
       "language": "EN",
-      "Category": "Surgery Category",
-      "CreatedDate": "2023-08-27"
+      "category": "Surgery category",
+      "createdDate": "2023-08-27"
     },
     {
       "id": 11,
       "name": "Laser Hair Removal",
       "code": "PC_Laser_Hair_Removal",
       "language": "EN",
-      "Category": "Hair Category",
-      "CreatedDate": "2024-05-29"
+      "category": "Hair category",
+      "createdDate": "2024-05-29"
     },
     {
       "id": 12,
       "name": "Tummy Tuck",
       "code": "PC_Tummy_Tuck",
       "language": "EN",
-      "Category": "Surgery Category",
-      "CreatedDate": "2023-06-23"
+      "category": "Surgery category",
+      "createdDate": "2023-06-23"
     },
     {
       "id": 13,
       "name": "Eye Surgery",
       "code": "PC_Eye_Surgery",
       "language": "EN",
-      "Category": "Surgery Category",
-      "CreatedDate": "2023-10-23"
+      "category": "Surgery category",
+      "createdDate": "2023-10-23"
     },
     {
       "id": 14,
       "name": "Botox",
       "code": "PC_Botox",
       "language": "EN",
-      "Category": "Aesthetic Category",
-      "CreatedDate": "2023-08-23"
+      "category": "Aesthetic category",
+      "createdDate": "2023-08-23"
     },
     {
       "id": 15,
       "name": "Vein Treatment",
       "code": "PC_Vein_Treatment",
       "language": "EN",
-      "Category": "Surgery Category",
-      "CreatedDate": "2024-02-14"
+      "category": "Surgery category",
+      "createdDate": "2024-02-14"
     }
   ],
   "user": [
